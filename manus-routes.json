@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Northstar home"},{"path":"/shop","title":"Shop"},{"path":"/about","title":"Our edit"},{"path":"/product/:id","title":"Product detail"},{"path":"/bag","title":"Shopping bag"}]}
